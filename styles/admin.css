@@ -1,0 +1,49 @@
+body{
+    background-color: #1a191f;
+}
+.film_canhge {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    background-color: #1a191f;
+    height: 70vh;
+    justify-content: space-evenly;
+    border:2px solid white;
+    width: max-content;
+    margin-left: 50%;
+    margin-top: 2%;
+}
+.film_canhge input{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    outline: none;
+    border-color: white;
+    border-color: whitesmoke;
+    color:white;
+    background-color: #1a191f;
+    
+}
+.film_canhge button{
+    height: 40px;
+    width: 150px;
+    background-color: #1a191f;
+    color:white;
+    border:2px solid white;
+    cursor: pointer;
+}
+.film_canhge button:hover{
+    color:#1a191f;
+    background-color: white;
+}
+
+textarea{
+    border-radius: 10px;
+    outline: none;
+    border-color: white;
+    border-color: whitesmoke;
+    color:white;
+    background-color: #1a191f;
+}

@@ -1,0 +1,29 @@
+[
+    {
+        "image":"https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/d2163a03-b402-4d76-9c2d-2fb34cad87bf/180",
+        "id":"1",
+        "name":"Мультики",
+        "desc":" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis beatae odio dignissimos porro architecto, eveniet voluptas veniam aperiam dolor explicabo impedit eum repudiandae similique dolorem blanditiis quam ex eligendi asperiores!",
+        "li":"!@#",
+        "video":""
+        
+
+    },
+    {
+        "image":"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/1e5eb57e-094d-439f-98ae-62a33c499540/120",
+        "id":"2",
+        "name":"Боевики,фэнтези",
+         "desc":"SADFSAD",
+         "li":"!@#",
+         "video":""
+    },
+    {
+        "image":"https://i.pinimg.com/736x/40/60/2e/40602ea389aa3bdea5bdffa72a67c2f7.jpg",
+        "id":"3",
+        "name":"Аниме",
+        "desc":"SADFSAD",
+         "li":"!@#",
+        "video":""
+    }
+
+]
